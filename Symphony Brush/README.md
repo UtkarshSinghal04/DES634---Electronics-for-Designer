@@ -19,7 +19,7 @@ A captivating visual representation of sound waves dances across a screen, evolv
 
 This combination of hardware and software creates a unique, immersive experience, blending visual art with audio creation in a seamless, real-time process.
 
-Refer The pptx for detail and demo videos
+Refer The PPT for detail and demo videos
 
 
 
